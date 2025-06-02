@@ -1,0 +1,1 @@
+// campaignConsumer.js - placeholder content

@@ -1,0 +1,1 @@
+// CommunicationLog.js - placeholder content
